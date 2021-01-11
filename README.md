@@ -1,4 +1,6 @@
 # best-repo-ever
 
 this is a change
-some changes to line 4 adding 00000000
+adding line 4
+line 5
+line 6
